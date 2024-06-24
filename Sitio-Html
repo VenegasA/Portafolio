@@ -1,1 +1,102 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" lang="" style=""><!--<![endif]--><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Aquí pon tu nombre de sitio web</title>
+        <meta name="description" content="Aquí debes colocar la descripción del sitio web">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/normalize.min.css">
+        <link rel="stylesheet" href="css/main.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.responsive {
+  width: 100%;
+  height: auto;
+}
+</style>
 
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    </head>
+    <body>
+        
+
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]--><div class="header-container">
+            <header class="wrapper clearfix">
+                <h1 class="title">Adrián Miguel Venegas Callataxi</h1>
+                <nav>
+                    <ul>
+                        <li><a href="https://www.linkedin.com/in/adrián-venegas-callataxi/">Linkedin</a></li>
+                        <li><a href="https://visual-pixeles.blogspot.com/">Blogger</a></li>
+                        <li><a href="https://adrianvenegascallataxi.wordpress.com/">WordPress</a></li>
+                    </ul>
+                </nav>
+            </header>
+        </div>
+
+        <div class="main-container">
+            <div class="main wrapper clearfix">
+
+                <article>
+                    <header>
+                        <h1>Sobre mí</h1>
+			<img src="image/Adrian-Venegas-Callataxi-banner-marketing-digital-2024.jpg" class="responsive"</img width="600px"height="300px">
+                        <p>Soy estudiante de Marketing Digital y Comercio Electrónico en el Instituto Tecnológico Superior Cordillera. Con habilidades en el manejo de redes sociales, SEO y SEM.</p>
+			<p>Me considero una persona que se adapta a los ambientes para trabajar en equipo y me mantengo actualizado en la implementación de nuevas herramientas y tendencias del marketing.</p>
+                    </header>
+	<div class="video-responsive">
+		<iframe src="https://www.youtube.com/embed/ATDxjNg8rVo?si=et3RvmwRcDDQlh_6" frameborder="0" allowfullscreen></iframe>
+	</div>
+                    <section>
+                        <h2>Educación</h2>
+                        <p>- Bachiller en Ciencias | Unidad Educativa “Santiago de Guayaquil” | (2010 - 2016)</p>
+                        <p>- Tecnología Superior en Marketing Digital y Comercio Electrónico | Instituto Universitario Tecnológico Superior Cordillera | (2023 - En Curso)</p>
+                    </section>
+                    <section>
+                        <h2>Experiencia</h2>
+                        <p>- Asistente de Cocina y Servicios | Vallejo Araujo | (2018 - 2019)</p>
+                    </section>
+		                <section>
+                        <h2>Certificados</h2>
+                        <p>- Suficiencia de Ingles Nivel B2 | Instituto de Idiomas de la Universidad de las Fuerzas Armadas ESPE | (2021)</p>
+                        <p>- Certificado en Marketing de Contenidos | Hubspot Academy | (2024)</p>
+                        <p>- Certificado en Cloud Computing | Google y Escuela de Organización Industrial | (2024)</p>
+                    </section>
+                    <footer style="width: 500px;">
+                        <h3>Frase Motivacional</h3>
+                        <p style="width: 550px;height: 70px;">"Al final todo estará bien y si no está bien, es por que aún no es el final."  Federico Díaz Acuña</p>
+                    </footer>
+                </article>
+
+                <aside>
+                    <h3>Estudiante Tecnólogo Superior en Marketing Digital y Comercio Electrónico</h3>
+		    <img src="image/Adrián-Venegas-Callataxi-foto-perfil-2024.jpg" class="responsive"</img width="285px"height="360px">
+		    <h3>Contacto</h3>
+                    <p><i class="fa fa-whatsapp" style="font-size:20px;color:white"></i>   	0984355814</p>
+		    <p><i class="fa fa-envelope-o" style="font-size:20px;color:white"></i>	adrian_venegas@hotmail.es</p>
+		    <a href="https://www.linkedin.com/in/adrián-venegas-callataxi/"><i class="fa fa-linkedin-square" style=";font-size:40px;color:white"></i></a>
+                </aside>
+
+            </div> <!-- #main -->
+        </div> <!-- #main-container -->
+
+        <div class="footer-container">
+            <footer class="wrapper">
+                <h3>Pié de página</h3>
+		<div class="map-responsive">
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d791.6772938461846!2d-78.4889164303092!3d-0.15619890559937993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59aba9e05e6a1%3A0x606478970ed82284!2sInstituto%20Superior%20Tecnol%C3%B3gico%20Cordillera!5e0!3m2!1ses-419!2sec!4v1718762110256!5m2!1ses-419!2sec" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+		</div>
+				<p>© 2024 - Adrián Venegas Callataxi - Todos los derechos reservados</p>
+            </footer>
+        </div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script><script src="js/vendor/jquery-1.11.2.min.js"></script>
+
+        <script src="js/main.js"></script>
